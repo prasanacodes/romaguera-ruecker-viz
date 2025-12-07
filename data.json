@@ -1,0 +1,18 @@
+[
+  { "source": "Search Engine", "target": "Awareness", "value": 4000 },
+  { "source": "Social Media", "target": "Awareness", "value": 3000 },
+  { "source": "Email Newsletter", "target": "Awareness", "value": 1500 },
+  { "source": "Direct Traffic", "target": "Awareness", "value": 1000 },
+  { "source": "Referral", "target": "Awareness", "value": 500 },
+  { "source": "Awareness", "target": "Interest", "value": 4000 },
+  { "source": "Awareness", "target": "Lost - No Click", "value": 6000 },
+  { "source": "Interest", "target": "Consideration", "value": 2400 },
+  { "source": "Interest", "target": "Lost - Bounce", "value": 1600 },
+  { "source": "Consideration", "target": "Purchase", "value": 720 },
+  { "source": "Consideration", "target": "Lost - Abandoned Cart", "value": 1680 },
+  { "source": "Search Engine", "target": "Interest", "value": 500 },
+  { "source": "Social Media", "target": "Purchase", "value": 200 },
+  { "source": "Email Newsletter", "target": "Purchase", "value": 300 },
+  { "source": "Referral", "target": "Interest", "value": 150 },
+  { "source": "Direct Traffic", "target": "Purchase", "value": 100 }
+]
