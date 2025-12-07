@@ -1,18 +1,24 @@
 [
-  { "source": "Search Engine", "target": "Awareness", "value": 4000 },
-  { "source": "Social Media", "target": "Awareness", "value": 3000 },
-  { "source": "Email Newsletter", "target": "Awareness", "value": 1500 },
-  { "source": "Direct Traffic", "target": "Awareness", "value": 1000 },
-  { "source": "Referral", "target": "Awareness", "value": 500 },
-  { "source": "Awareness", "target": "Interest", "value": 4000 },
-  { "source": "Awareness", "target": "Lost - No Click", "value": 6000 },
-  { "source": "Interest", "target": "Consideration", "value": 2400 },
-  { "source": "Interest", "target": "Lost - Bounce", "value": 1600 },
-  { "source": "Consideration", "target": "Purchase", "value": 720 },
-  { "source": "Consideration", "target": "Lost - Abandoned Cart", "value": 1680 },
-  { "source": "Search Engine", "target": "Interest", "value": 500 },
-  { "source": "Social Media", "target": "Purchase", "value": 200 },
-  { "source": "Email Newsletter", "target": "Purchase", "value": 300 },
-  { "source": "Referral", "target": "Interest", "value": 150 },
-  { "source": "Direct Traffic", "target": "Purchase", "value": 100 }
+  { "source": "Search Engine", "target": "Awareness", "value": 420 },
+  { "source": "Social Media", "target": "Awareness", "value": 380 },
+  { "source": "Display Ads", "target": "Awareness", "value": 260 },
+  { "source": "Referral", "target": "Awareness", "value": 190 },
+
+  { "source": "Search Engine", "target": "Interest", "value": 310 },
+  { "source": "Social Media", "target": "Interest", "value": 240 },
+  { "source": "Email", "target": "Interest", "value": 280 },
+  { "source": "Display Ads", "target": "Interest", "value": 170 },
+
+  { "source": "Email", "target": "Consideration", "value": 220 },
+  { "source": "Search Engine", "target": "Consideration", "value": 200 },
+  { "source": "Referral", "target": "Consideration", "value": 140 },
+
+  { "source": "Email", "target": "Purchase", "value": 160 },
+  { "source": "Search Engine", "target": "Purchase", "value": 145 },
+  { "source": "Referral", "target": "Purchase", "value": 95 },
+
+  { "source": "Purchase", "target": "Repeat Purchase", "value": 110 },
+  { "source": "Purchase", "target": "Loyal Customer", "value": 80 },
+  { "source": "Repeat Purchase", "target": "Loyal Customer", "value": 65 },
+  { "source": "Loyal Customer", "target": "Brand Advocate", "value": 40 }
 ]
